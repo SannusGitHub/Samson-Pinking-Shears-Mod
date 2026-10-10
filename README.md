@@ -8,9 +8,9 @@ In The Binding of Isaac: Repentance's files, there lies a synergy with Samson an
 
 This mod restores it to it's proper, former glory. Now for everyone to install and enjoy!
 
-Credits
-MrMeatball — Samson cosmetic sprite and idea
-W3SNED — Hair Explosion sprite
+## Credits
+* MrMeatball — Samson cosmetic sprite and idea
+* W3SNED — Hair Explosion sprite
 
 (This is a joke mod. If it's too hard, check out the version history for a version with stat-ups available.)
 
