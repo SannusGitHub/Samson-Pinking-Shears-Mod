@@ -1,0 +1,3 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="haircut.anm2" name="Haircut Particles" id="1000" variant="1"/>
+</entities>

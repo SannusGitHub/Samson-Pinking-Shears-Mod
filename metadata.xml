@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>samson hair</name>
+    <directory>samson_hair</directory>
+    <id>3794495919</id>
+    <description>REQUIRES [url=https://github.com/TeamREPENTOGON/Launcher/releases/latest]REPENTOGON[/url] TO FUNCTION
+
+[h1]Samson and Pinking Shears[/h1]
+In The Binding of Isaac: Repentance's files, there lies a synergy with Samson and The Pinking Shears, which goes unused.
+
+This mod restores it to it's proper, former glory. Now for everyone to install and enjoy!
+
+[h2]Credits[/h2]
+[list]
+    [*] [url=https://bsky.app/profile/mrmeatballl.bsky.social]MrMeatball[/url] — Samson cosmetic sprite and idea
+    [*] W3SNED — Hair Explosion sprite
+[/list]
+</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Tweaks"/>
+</metadata>
